@@ -12,7 +12,10 @@ The govt. released ambiguous data eg. a day update on covid numbers are usually 
 
 [![Capture.png](https://i.postimg.cc/kgDJJGdp/Capture.png)](https://postimg.cc/0zRRZ8jY)
 
-Below are the features -
+
+
+
+Below are the features considered in the data -
 
 1. Patient_Number - Pn (where n is number of covid patients, 1<=n) [NOT NULL]
 
