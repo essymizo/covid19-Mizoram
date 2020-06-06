@@ -4,7 +4,11 @@ Keeping track of covid19 in Mizoram. Data processed from official twitter accoun
 
 ## Data features 
 
-The official govt update on covid19 data are sourced from the above mentioned location only and any alterations anywhere else is not captured. There are some ambiguous data released eg. a day update on covid numbers are usually in generic information like there are 5 new infected patients out of which two are male and rest female, 3 comes from kolasib district and rest from aizawl etc. Such data as and when found are recorded as blank during my processing. Please refer screenshot 
+The official govt update on covid19 data are sourced from the above mentioned location only and any alterations anywhere else is not captured. 
+
+The govt. released ambiguous data eg. a day update on covid numbers are usually in generic information -<i> there are 5 new infected patients out of which two are male and rest female, 3 comes from kolasib district and rest from aizawl etc </i>. Such data as and when found are recorded as blank during my processing. Please refer screenshot 
+
+**If anyone knows anyone from DIPR, please ask them to upload data in standardised format :)**
 
 [![Capture.png](https://i.postimg.cc/kgDJJGdp/Capture.png)](https://postimg.cc/0zRRZ8jY)
 
