@@ -1,6 +1,6 @@
 ## covid19-Mizoram
 
-Keeping track of covid19 in Mizoram. Data processed from official DIPR account https://twitter.com/dipr_mizoram 
+Keeping track of covid19 in Mizoram. Data processed from official twitter account of [Directorate of Information and Public Relations, Mizoram (DIPR)](https://twitter.com/dipr_mizoram)
 
 ## Data features 
 
